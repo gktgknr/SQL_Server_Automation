@@ -1,0 +1,2 @@
+DROP DATABASE [DatabaseName]
+GO

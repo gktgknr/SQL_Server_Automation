@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "PowerShell",
+        "request": "launch",
+        "name": "Launch PowerShell script",
+        "script": "${workspaceFolder}/SetupPowerShell.ps1",
+        "args": [],
+        "cwd": "${workspaceFolder}"
+      }
+    ]
+  }
